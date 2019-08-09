@@ -335,7 +335,7 @@
 { id: 473, name: 'Shovel', type: 10, rarity: 3, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 474, name: 'Hero\'s Wrap of Honor', type: 8, rarity: 4, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 475, name: 'Dark Warrior Mantle', type: 7, rarity: 3, colour: 'purple', colour2: '', availability: 'normal', url_m: 'https://cdn.discordapp.com/attachments/604216214310354946/606882184304918538/dark-warrior-mantle_1.PNG', url_f: '' },
-{ id: 476, name: 'Crimson Mage Robes', type: 2, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
+{ id: 476, name: 'Crimson Mage Robes', type: 2, rarity: 2, colour: 'red', colour2: 'yellow', availability: 'normal', url_m: 'https://cdn.discordapp.com/attachments/604209040779771938/609281371386544129/Crimson_Mage_Robes.PNG', url_f: '' },
 { id: 477, name: 'Crimson Mage Cowl', type: 9, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 478, name: 'Wood Smasher', type: 10, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 479, name: 'Twilight Wolf Boots', type: 6, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
